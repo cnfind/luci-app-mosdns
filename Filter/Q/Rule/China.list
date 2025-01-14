@@ -1,0 +1,37 @@
+# > Ali
+HOST-KEYWORD,alipay,China
+HOST-KEYWORD,alicdn,China
+HOST-KEYWORD,aliyun,China
+IP-CIDR,198.11.188.0/25,China
+IP-CIDR,198.11.136.0/24,China
+# > Ohter
+USER-AGENT,WeChat*,China
+USER-AGENT,QQ*,China
+HOST-SUFFIX,baidu.com,China
+HOST-SUFFIX,qq.com,China
+HOST-SUFFIX,jd.com,China
+HOST-SUFFIX,jd.hk,China
+HOST-SUFFIX,12306.com,China
+HOST-SUFFIX,163.com,China
+HOST-SUFFIX,douyin.com,China
+HOST-SUFFIX,weibo.com,China
+HOST-SUFFIX,tencent.com,China
+HOST-SUFFIX,taobao.com,China
+HOST-SUFFIX,tmall.com,China
+HOST-SUFFIX,snssdk.com,China
+HOST-SUFFIX,so.com,China
+HOST-SUFFIX,mi.com,China
+HOST-SUFFIX,nn.ci,China
+HOST-SUFFIX,gov.cn,China
+HOST-SUFFIX,cn,China
+HOST-SUFFIX,local,China
+IP-CIDR,0.0.0.0/8,China
+IP-CIDR,10.0.0.0/8,China
+IP-CIDR,100.64.0.0/10,China
+IP-CIDR,127.0.0.0/8,China
+IP-CIDR,169.254.0.0/16,China
+IP-CIDR,172.16.0.0/12,China
+IP-CIDR,192.168.0.0/16,China
+IP-CIDR,224.0.0.0/4,China
+IP-CIDR,240.0.0.0/4,China
+GEOIP,CN,China

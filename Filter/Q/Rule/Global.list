@@ -1,0 +1,55 @@
+# > Telegram
+HOST-SUFFIX,t.me,Global
+HOST-SUFFIX,tx.me,Global
+HOST-SUFFIX,telegram.me,Global
+HOST-SUFFIX,telesco.pe,Global
+HOST-SUFFIX,legra.ph,Global
+HOST-SUFFIX,telegra.ph,Global
+HOST-SUFFIX,tdesktop.com,Global
+HOST-SUFFIX,tg.dev,Global
+HOST-SUFFIX,telegram.dog,Global
+HOST-SUFFIX,telega.one,Global
+HOST-SUFFIX,graph.org,Global
+HOST-SUFFIX,telegram.org,Global
+HOST-SUFFIX,cdn-telegram.org,Global
+HOST-SUFFIX,telegram.space,Global
+HOST-KEYWORD,telegram,Global
+# > Google
+HOST-KEYWORD,google,Global
+HOST-KEYWORD,youtube,Global
+HOST-KEYWORD,gmail,Global
+HOST-KEYWORD,facebook,Global
+HOST-KEYWORD,twitter,Global
+HOST-KEYWORD,dropbox,Global
+HOST-KEYWORD,appspot,Global
+HOST-KEYWORD,blogspot,Global
+HOST-SUFFIX,gstatic.com,Global
+HOST-SUFFIX,letsencrypt.org,Global
+HOST-SUFFIX,android.com,Global
+HOST-SUFFIX,chrome.com,Global
+HOST-SUFFIX,youtu.be,Global
+HOST-SUFFIX,googlevideo.com,Global
+HOST-SUFFIX,googledrive.com,Global
+# > GitHub
+HOST-KEYWORD,github,Global
+HOST-SUFFIX,atom.io,Global
+HOST-SUFFIX,ghcr.io,Global
+HOST-SUFFIX,git.io,Global
+HOST-SUFFIX,github.io,Global
+HOST-SUFFIX,githubapp.com,Global
+HOST-SUFFIX,githubassets.com,Global
+HOST-SUFFIX,githubusercontent.com,Global
+HOST-SUFFIX,rawgit.com,Global
+HOST-SUFFIX,rawgithub.com,Global
+# > Docker
+HOST-SUFFIX,docker.com,Global
+HOST-SUFFIX,docker.io,Global
+HOST-SUFFIX,dockerhub.com,Global
+# > Ohter
+HOST-KEYWORD,gitee,Global
+HOST-KEYWORD,gitter,Global
+HOST-KEYWORD,gitlab,Global
+HOST-KEYWORD,onedrive,Global
+HOST-SUFFIX,fabric.io,Global
+HOST-SUFFIX,1drv.com,Global
+HOST-SUFFIX,vercel.app,Global

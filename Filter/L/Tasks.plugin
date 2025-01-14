@@ -1,0 +1,9 @@
+#!name=Tasks
+#!desc=计划任务
+#!icon=https://raw.githubusercontent.com/oosee/z/master/Icons/ZzSet/Plugin/Tasks.png
+
+[Script]
+# > 节点同步
+cron "0 1 * * *" script-path=https://github.com/sub-store-org/Sub-Store/releases/latest/download/cron-sync-artifacts.min.js, tag=节点同步
+# > IQIY签到
+#cron "5 1 * * *" script-path=https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js, tag=IQIY签到

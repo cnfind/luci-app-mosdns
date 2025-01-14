@@ -1,0 +1,12 @@
+# > iOS Update
+HOST,ocsp.apple.com,ABlack
+HOST,xp.apple.com,ABlack
+HOST,mesu.apple.com,ABlack
+HOST,gdmf.apple.com,ABlack
+HOST,updates-http.cdn-apple.com,ABlack
+# > FinalShell
+HOST-SUFFIX,dkys.org,ABlack
+HOST-SUFFIX,youtusoft.com,ABlack
+HOST-SUFFIX,hostbuf.com,ABlack
+HOST-SUFFIX,tcpspeed.com,ABlack
+HOST-SUFFIX,wn1998.com,ABlack
